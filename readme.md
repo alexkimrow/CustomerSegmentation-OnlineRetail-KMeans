@@ -36,7 +36,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-Explain how to run the notebook:
+How to run the notebook:
 
 1. Clone the repository.
 2. Navigate to the project directory.
@@ -44,7 +44,7 @@ Explain how to run the notebook:
 
 ## Data
 
-Describe the datasets used in the notebook and how to obtain them.
+Dataset used was Online Retail II from Kaggle.
 
 ## Results
 
