@@ -32,5 +32,13 @@ Describe the datasets used in the notebook and how to obtain them.
 
 ## Results
 
+![Distribution](images/disribution.png)
 ![3D Scatter Plot](images/3D_scatter.png)
+![Cluster Distribution](images/cluster_dist-avg_Feat_value.png)
+![Inertia_SilScore](images/inertia_silscore.png)
+![MFC_by_cluster_no_outlier](images/MFC_by_cluster_no_outlier)
+![MFR Box Non Outlier](images/MFR_box_non_out.png)
+![MFR Box](images/MFR_box.png)
+![MF By Cluster](images/MFR_by_cluster.png)
+
 
