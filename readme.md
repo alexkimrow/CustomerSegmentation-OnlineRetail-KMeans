@@ -1,7 +1,21 @@
+![Python](https://img.shields.io/badge/Python-3.8-blue)
+![Pandas](https://img.shields.io/badge/Pandas-1.3.5-brightgreen)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.0.2-orange)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.5.1-red)
+![Seaborn](https://img.shields.io/badge/Seaborn-0.11.2-purple)
+
 # Customer Segmentation - Online Retail
 
 Data Science project that dives deep into customer segmentation using Python, Pandas, Scikit-learn.
 The Goal is to observe customer behavior in MRF (Monetary Value, Relevancy, and Frequency). Gain insights of customers.
+
+  ## Table of Contents
+  - [Overview](#overview)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Data](#data)
+  - [Results](#results)
+  - [Contact](#license)
 
 ## Overview
 
@@ -42,3 +56,8 @@ Describe the datasets used in the notebook and how to obtain them.
 ![MF By Cluster](images/MFR_by_cluster.png)
 
 
+## Contact
+
+- Alex Ro - [alexkimro@gmail.com](mailto:alexkimro@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/alexkimro)
+- [GitHub](https://github.com/alexkimrow)
