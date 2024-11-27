@@ -1,8 +1,10 @@
-![Python](https://img.shields.io/badge/Python-3.8-blue)
-![Pandas](https://img.shields.io/badge/Pandas-1.3.5-brightgreen)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.0.2-orange)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3.5.1-red)
-![Seaborn](https://img.shields.io/badge/Seaborn-0.11.2-purple)
+<div align="center"> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-315BA1?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C60B5?style=for-the-badge&logo=seaborn&logoColor=white" />
+</div>
 
 # Customer Segmentation - Online Retail
 
