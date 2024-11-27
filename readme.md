@@ -17,7 +17,7 @@ The Goal is to observe customer behavior in MRF (Monetary Value, Relevancy, and 
   - [Usage](#usage)
   - [Data](#data)
   - [Results](#results)
-  - [Contact](#license)
+  - [Contact](#contact)
 
 ## Overview
 
